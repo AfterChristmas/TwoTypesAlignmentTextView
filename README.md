@@ -1,7 +1,8 @@
 # TwoTypesAlignmentTextView
  One TextView with  Two  types of Alignment 一个Textview根据行数不同实现不同的对齐方式
  
-#使用方法
+# 使用方法
+
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -35,5 +36,8 @@
 </RelativeLayout>
 
 
+# 效果图
+
+![效果示例](https://github.com/AfterChristmas/TwoTypesAlignmentTextView/blob/master/example1.png?raw=true)
 
 
